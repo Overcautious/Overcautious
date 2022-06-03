@@ -1,18 +1,18 @@
-## 🙋‍♂️ Hi there ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fovercautiou.overcautiou%2Freadme)
+## 🙋‍♂️ Hello, friend ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fovercautiou.overcautiou%2Freadme)
 
-<img align="right" alt="GIF" src="https://github.com/Overcautious/Overcautious/blob/main/code.gif" width="284" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em>
-
-
+ <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em>
 
 
-#### I‘m Zhou
+<img align="right" alt="GIF" src="https://github.com/Overcautious/Overcautious/blob/main/code.gif" width="284" title="Say HI">
+
+## 📔 Personal Description
 - 🌱 A Computer Science and Technology Student. & Audiovisual Multimodal Algorithm Engineer.
 - 👯 Currently studying in Xi'an, China.
 - 📫 How to reach me: 1152490501@qq.com
 - 🙌 My Blog: [Blog](https://blog.csdn.net/qq_44700810)
 
 
-### 🛠 技术栈 | Tech Stack
+## 🛠  Tech Stack
 
 - 💻 &#160; ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599c)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
