@@ -30,9 +30,10 @@
 - [ ] Stick to writing my personal blog and love to share. 
 - [ ] Read more, accumulate more.
 
-![](https://github-readme-stats.vercel.app/api?username=Overcautious)
+<!-- 
+![](https://github-readme-stats.vercel.app/api?username=Overcautious)-->
 
-📊 **This Week I Spent My Time On:**
+## 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
 C/C++      5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
